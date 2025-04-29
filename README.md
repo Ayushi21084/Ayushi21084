@@ -1,12 +1,3 @@
-###
-<p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/girl-doing-coding-work-9553011-8852849.gif" alt="Girl Doing Coding Work" width="400"/>
-</p>
-
-
-
-
-
 
 
 ###
@@ -15,7 +6,8 @@
 
 
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey 👋, I'm Ayushi</h1>
+
 
 ###
 
@@ -23,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Ayushi from India <br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning <br>- ⚡ In my free time I read blogs<br>- 📫 How to reach me <a href="mailto:ayushi21048@gmail.com">ayuhsi21048@gmail.com</a></p>
+<p align="left">-🔭 I'm a passionate frontend developer <br>-📚 I'm currently learning <br>- ⚡ In my free time I read blogs<br>- 📫 How to reach me <a href="mailto:ayushi21048@gmail.com">ayuhsi21048@gmail.com</a></p>
 
 
 
